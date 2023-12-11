@@ -1,0 +1,12 @@
+.titulo{
+    color:rgb(234, 113, 234);
+    text-align: center;
+}
+.centrar-imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.body {
+    background-color: #463939; /* Código hexadecimal para el color morado */
+}
